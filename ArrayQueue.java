@@ -1,6 +1,3 @@
-import java.lang.reflect.Array;
-import java.util.Arrays;
-
 public class ArrayQueue<T> implements Queue<T> //from class notes
 {
 	private int front;
